@@ -9,9 +9,9 @@ const qBank = [
 	},
 	{
 		id: 2,
-		question: "What is the capital of Punjab?",
-		options: ["Patiala", "Ludhiana", "Amritsar", "Chandigarh"],
-		answer: "Chandigarh",
+		question: "What is the capital of tamilnadu?",
+		options: ["coimbatore", "tirchy", "madurai", "chennai"],
+		answer: "chennai",
 	},
 	{
 		id: 3,
